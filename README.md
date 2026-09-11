@@ -1,2 +1,24 @@
 # politican-s-exam-date
 A mock exam scheduling dashboard built with FastAPI to test automated browser agent change-detection algorithms.
+
+
+this website is for testing and mimics an offficals governement or competetive exam websites like NTA 
+
+TECH STACK & FEATURES
+*FASTAPI
+*TEMPLATE RENDERING -JINJA2
+*STYLING - SOFT WARM CHIBI STYLE RABBIT THEME 
+
+
+HOW TO OPEN IT 
+**OPEN NEW TERMINAL IN VS CODE
+**WRITE    uvicorn backend:app --reload
+**COPY THE URL , LOOKS LIKE 127:.......
+PASTE IT IN YOUR BROWSER 
+
+
+THIS IS A DEMO WEBSITE TO TEST I CREATE WHICH MIMICS NTA LIKE WEBSITES 
+
+
+WHAT YOU WANNA TEST FOR ?????
+FOR A BROWESER AGENT THAT CHECKS AND UPDATES THE USER WHETHER SOME CHANGES HAPPEN OR NOT IN THE WEBSITE LIKE NTA OR OTHER EXAM CONDUCTING WEBSITES WHICH HELPS USER TO SEE AND DON'T MISS ANY IMPORTANT UPDATE..............
