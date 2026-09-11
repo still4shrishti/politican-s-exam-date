@@ -1,0 +1,4 @@
+fastaoi
+uvicirn
+jinja2
+python-multipart
