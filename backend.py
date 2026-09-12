@@ -10,7 +10,7 @@ exam_data = {
     "exam_name": "Politican Ke Exam",
     "reg_date": "September 15, 2026",
     "exam_date": "October 10, 2026",
-    "deadline": "October 05, 2026"
+    "deadline": "October 15, 2026"
 }
 
 @app.get("/", response_class=HTMLResponse)
